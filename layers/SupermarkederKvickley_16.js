@@ -1,0 +1,1 @@
+var json_SupermarkederKvickley_16 = {"type":"FeatureCollection","name":"SupermarkederKvickley_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Kvickly, Hvidovrevej 178"},"geometry":{"type":"Point","coordinates":[12.4744043,55.6530918]}}]}
